@@ -1,0 +1,4 @@
+insert TCGACGGTAGGT
+print
+insert TCGA
+    
